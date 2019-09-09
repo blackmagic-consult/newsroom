@@ -1,4 +1,5 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://blackmagic-consult.github.io
+/"  # Include trailing slash
 title = "Newsroom"
 theme = "newsroom"
 author = "Weru"
