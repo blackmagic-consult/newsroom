@@ -1,4 +1,5 @@
-baseurl = "https://blackmagic-consult.github.io
+baseurl = "https://blog.blackmagic.wtf
+
 /"  # Include trailing slash
 title = "Newsroom"
 theme = "newsroom"
